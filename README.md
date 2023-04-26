@@ -1,1 +1,1 @@
-# gh-pages
+deployment domain for github pages.
